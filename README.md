@@ -6,7 +6,7 @@ DevOps
 
 Working as a DevOps engineer for six years with Best Software Co, I worked in several key CD and CI areas, including: Coded scripts to automatically configure, test, and deploy key features. Worked with a team of developers on improving systems and processes. Delivered quality assurance and continuous integration to improve the SaaS product. As well as DevOps experience am proficient in a variety of programming languages, frameworks, and platforms, including Python, Powershell, groovy ,Bash, Ansible, Jenkins, Kubernetes, AWS, and more.
 
-* 🌍  I'm based in Chennai,India
+* 🌍  I'm based in Abu Dhabi,UAE
 * ✉️  You can contact me at [manojprabhu.k@gmail.com](mailto:manojprabhu.k@gmail.com)
 * 🧠  I'm learning ArgoCD - GitOps
 * 🤝  I'm open to collaborating on System Development Projects
