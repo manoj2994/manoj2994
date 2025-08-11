@@ -4,12 +4,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps
 ------
 
-Working as a DevOps engineer for six years with Best Software Co, I worked in several key CD and CI areas, including: Coded scripts to automatically configure, test, and deploy key features. Worked with a team of developers on improving systems and processes. Delivered quality assurance and continuous integration to improve the SaaS product. As well as DevOps experience am proficient in a variety of programming languages, frameworks, and platforms, including Python, Powershell, groovy ,Bash, Ansible, Jenkins, Kubernetes, AWS, and more.
+I’m a DevOps engineer with 9 years of experience in automating infrastructure, optimizing CI/CD workflows, and ensuring high-availability environments for SaaS products. I specialize in Linux and Windows server administration, automation with Ansible, Python, PowerShell, and Bash, and containerized deployments with Kubernetes and Docker.
 
 * 🌍  I'm based in Abu Dhabi,UAE
 * ✉️  You can contact me at [manojprabhu.k@gmail.com](mailto:manojprabhu.k@gmail.com)
-* 🧠  I'm learning ArgoCD - GitOps
+* 🧠  I'm learning Go & system design currently
 * 🤝  I'm open to collaborating on System Development Projects
+
+### Over the years, I’ve:
+* Automated full bare-metal server provisioning with Ansible, from PXE boot to OS installation and system hardening.
+* Developed Ansible roles to configure network switches, load balancers (HAProxy), Docker Registry, and high-availability solutions with Keepalived.
+* Managed CI/CD pipelines in Jenkins for infrastructure code, database migrations, and application deployments.
+* Built monitoring and alerting solutions integrating SNMP and custom Python/Bash scripts.
+* Administered and optimized databases including PostgreSQL, etcd, and other distributed data systems.
+* Deployed and maintained Kubernetes (on-prem and GKE) and Docker environments for scalable, resilient services.
+* Created automation scripts in Python, Bash, and PowerShell to streamline provisioning, deployment, and incident handling.
+* Designed fully automated solutions linking ServiceNow incidents to Jenkins pipelines and Ansible playbooks.
+
 
 ### Skills
 
